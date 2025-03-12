@@ -10,12 +10,7 @@ Rewardy aims to achieve **10 million downloads** and **10 million active daily u
 
 ---
 
-<p align="center">
-    <img src="https://github.com/user-attachments/assets/ec1b6070-860d-4845-9421-677e3876f6bc" alt="community" width="30%" />
-    <img src="https://github.com/user-attachments/assets/4314ce3e-6404-4f10-966a-0d90ef72305c" alt="wallet" width="30%" />
-</p>
 
----
 
 
 ## 🚀 Key Features
