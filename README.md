@@ -14,22 +14,22 @@ Rewardy aims to achieve **10 million downloads** and **10 million active daily u
 
 ## 🚀 Key Features
 
-### 🔄 **P2T Swap**
+### ✅ **P2T Swap**
 - A seamless feature that allows users to **convert their points into RWD tokens**, enabling easy liquidity conversion and enhancing flexibility in asset management.
 
-### 🛒 **Vending Machine**
+### ✅ **Vending Machine**
 - An automated system that allows users to **instantly exchange RWD tokens** for a variety of **digital products and services**, enhancing the instant gratification experience.
 
-### 🔐 **Web3 Auth**
+### ✅ **Web3 Auth**
 - A **Web3-based authentication system** designed to simplify wallet login and verification while ensuring **top-notch security and accessibility**.
 
-### 📤 **Transfer**
+### ✅ **Transfer**
 - Enables **fast and intuitive transactions**, allowing users to **send and receive tokens effortlessly** in a seamless manner.
 
-### 🎨 **NFT**
+### ✅ **NFT**
 - Offers robust features for **easy storage, transfer, and trading of NFTs**, maximizing the usability and liquidity of digital assets within the ecosystem.
 
-### 🎯 **Airdrop Launchpad**
+### ✅ **Airdrop Launchpad**
 - A powerful campaign platform where businesses can create **customized missions**. Users participate and **earn exclusive rewards**, enhancing engagement and fostering stronger brand-user relationships.
 
 ---
